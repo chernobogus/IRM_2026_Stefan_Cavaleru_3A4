@@ -102,6 +102,9 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
+#prea mare
+/[Aa]ssets/Editor/Migration/com.ptc.vuforia.engine-11.4.4.tgz
+
 # UI Toolkit auto generated files
 /UIElementsSchema/
 
