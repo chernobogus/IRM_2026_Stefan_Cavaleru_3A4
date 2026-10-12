@@ -11,7 +11,7 @@ public class DistanceTrigger : MonoBehaviour
     public Animator animator2;
 
     [Header("Distanta de atac (in metri)")]
-    public float attackDistance = 0.25f;
+    public float attackDistance = 0.25f; 
 
     void Start()
     {
